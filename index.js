@@ -1,6 +1,6 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-const { Triangle, Circle, Square } = require("./shapes");
+const { Triangle, Circle, Square } = require("./lib/shapes");
 
 async function generateLogo() {
   const answers = await inquirer.prompt([
