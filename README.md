@@ -19,7 +19,7 @@ To use this application, type in node.js and answer the questions to generate an
 ## Link to video walkthrough - 
 
 ## Screenshot
-<img src="SVG-Logo-Maker/examples/SVG Logo.png">
+<img src="SVG-Logo-Maker\examples\SVG Logo.png">
 
 ## License
 n/a
