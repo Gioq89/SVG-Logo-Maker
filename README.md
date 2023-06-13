@@ -16,7 +16,8 @@ Install the application by copying code for yourself
 ## Usage
 To use this application, type in node.js and answer the questions to generate an SVG file.
 
-## Link to video walkthrough - https://drive.google.com/file/d/1YtA4m5bVGfQg8vu7PgfmlP2uU_rrTxs8/view
+## Link to video walkthrough - 
+https://drive.google.com/file/d/1YtA4m5bVGfQg8vu7PgfmlP2uU_rrTxs8/view
 
 ## Screenshot
 <img src="examples\SVG Logo.png">
